@@ -1,2 +1,2 @@
-# react-commerApp
-react-commerApp
+# react-CommerceApp
+
